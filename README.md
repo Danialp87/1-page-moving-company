@@ -1,5 +1,5 @@
 Moovie - Bootstrap Website
 
-A responsive and user-friendly 1-page-website showcasing Moovie, a moving service co. in Finland!
+A responsive and user-friendly home-page showcasing Moovie, a moving service company in Finland! See image moovie.com.png!
 
  
